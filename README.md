@@ -9,7 +9,7 @@ There are documented API's in most of the common programming languages, with the
 ## Getting Started with Memcached
 
 Memached can be installed on all major OS's. To install it on Ubuntu/Raspberry Pi:
-```bash
+```shell
 sudo apt-get install memcached
 ```
 If you're using Docker there are some [lightweight memcached images (~89MB)](https://hub.docker.com/_/memcached) that can be used. 
